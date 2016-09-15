@@ -13,5 +13,3 @@
 column_classes=c("character","numeric","character")
 
 data<-read.csv("validate-vars.txt", colClasses=column_classes)
--0934poihjafdpogn	q049tu
-pwqotr4ua;knfdsg;hj	rt
